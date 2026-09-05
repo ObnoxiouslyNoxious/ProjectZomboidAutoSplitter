@@ -26,10 +26,20 @@ component's settings. Both settings are enabled by default.
 
 ## Setup
 
-1. In LiveSplit: Right click your layout → **Edit Layout** → **+** →
+### LiveSplit Setup:
+
+Option 1 (Manual):
+1a. In LiveSplit: Right click your layout → **Edit Layout** → **+** →
    **Control** → **Scriptable Auto Splitter**.
-2. Double click on 'Scriptable Auto Splitter' to open its Settings. Point it at `DeadSplit.asl` (its location doesn't matter,
+2a. Double click on 'Scriptable Auto Splitter' to open its Settings. Point it at `DeadSplit.asl` (its location doesn't matter,
    leave it wherever's convenient).
+
+Option 2 (Automatic):
+1b. In LiveSplit: Right click your layout → **Edit Splits** → **Select 'Project Zomboid' from the 'Game Name' Menu** → **'OK'**
+2b. Click Settings and adjust to your liking. Note that if 'Automatically Populate Category and Splits' is Disabled, you will need to open the previous Window and choose your Run Cateogry when switching Runs. If you leave it Enabled, DeadSplit will do this for you.
+
+### DeadSplit Setup:
+
 3. In DeadSplit's Settings screen (or via the right click/context DeadSplit menu),
    turn on **LiveSplit Mode**. This also hides DeadSplit's own UI panel
    automatically. Turning LiveSplit Mode back off restores whatever your
