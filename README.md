@@ -26,6 +26,11 @@ component's settings. Both settings are enabled by default.
 
 ## Setup
 
+### Initial Setup:
+
+- Download the DeadSplit.asl File (AutoSplitter) from the ProjectZomboidAutoSplitter Repository.
+- (Optional) Download the DeadSplit.lsl File (Layout File) ProjectZomboidAutoSplitter Repository.
+
 ### LiveSplit Setup:
 
 Option 1 (Manual):
